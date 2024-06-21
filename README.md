@@ -17,7 +17,6 @@ API ini memiliki beberapa class yaitu class Controller, class Models, dan class 
 ### GET
 GET/Customer
 </br>
-
 `http://localhost:9065/Customer`
 </br>
 Untuk mendapatkan daftar semua pelanggan atau customer. 
